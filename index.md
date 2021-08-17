@@ -18,13 +18,11 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+![different_K_8_5](https://user-images.githubusercontent.com/38346659/129793675-71e71792-be7a-416e-a3d6-85c03e6b2793.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
