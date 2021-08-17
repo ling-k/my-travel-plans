@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/ling-k/my-travel-plans/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-The video can be found at [navigation](https://www.youtube.com/watch?v=BS7Bq2-Q_w0) 
+The video can be found at [navigation project](https://www.youtube.com/watch?v=BS7Bq2-Q_w0){:target="_blank"}
 
 ### Markdown
 
